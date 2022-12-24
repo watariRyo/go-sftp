@@ -1,0 +1,5 @@
+sftp:
+  host: "localhost"
+  port: 2222
+  user: "foo"
+  password: "pass"
